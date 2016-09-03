@@ -1,0 +1,55 @@
+body {
+background-color: #f1f3f3;
+font-family: arial, sans-serif;
+}
+.wrapper {
+width: 550px;
+  margin: 0 auto;
+}
+img{
+  display: block;
+  margin: 0 auto;
+  border: 1px solid grey;
+}
+h1{
+  text-transform: uppercase;
+  padding-bottom: 10px;
+}
+.occupation {
+  color: grey;
+}
+.reasons {
+  border-top: 1px solid grey;
+}
+.Contacts,
+.reasons,
+.feedback {
+  border-top: 1px solid grey;
+}
+.occupation,
+h2 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+ul,
+.notes {
+  padding-bottom: 10px;
+ }
+a {
+  color: #1198DF;
+  font-style: italic;
+  margin-left: 30px;
+  font-weight: bold;
+  font-size: 14px;
+}
+.Contacts {
+padding-bottom: 20px;
+}
+.phone,
+.notes {
+margin-left: 30px;
+font-size: 14px;
+}
+ul {
+  font-size: 14px;
+}
