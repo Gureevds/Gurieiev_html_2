@@ -1,55 +1,55 @@
 body {
-background-color: #f1f3f3;
-font-family: arial, sans-serif;
+  background-color: #f1f3f3;
+  font-family: arial, sans-serif;
 }
+
+* {
+  padding-bottom: 5px;
+}
+
 .wrapper {
-width: 550px;
+  width: 550px;
   margin: 0 auto;
 }
 img{
   display: block;
   margin: 0 auto;
   border: 1px solid grey;
+  width: 220px;
+  height: 220px;
+  padding-bottom: 0;
 }
 h1{
   text-transform: uppercase;
-  padding-bottom: 10px;
 }
+
+p {
+  margin-left: 30px;
+  font-size: 14px;
+}
+
 .occupation {
   color: grey;
+  margin-left: 0;
 }
-.reasons {
-  border-top: 1px solid grey;
-}
-.Contacts,
+
+.сontacts,
 .reasons,
 .feedback {
   border-top: 1px solid grey;
 }
-.occupation,
-h2 {
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-ul,
-.notes {
-  padding-bottom: 10px;
- }
+
 a {
   color: #1198DF;
   font-style: italic;
   margin-left: 30px;
   font-weight: bold;
   font-size: 14px;
+  display: block;
+  padding-bottom: 20px;
 }
-.Contacts {
-padding-bottom: 20px;
-}
-.phone,
-.notes {
-margin-left: 30px;
-font-size: 14px;
-}
+
 ul {
   font-size: 14px;
+  padding-left: 30px;
 }
